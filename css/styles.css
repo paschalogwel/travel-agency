@@ -1,0 +1,23 @@
+h1{
+  color: #f7325e;
+  text-align: center;
+  font-weight: bolder;
+}
+.tropical{
+  color: blue
+
+}
+p{
+  color: #7dc410;
+}
+.holiday{
+  color:#f7325e;
+}
+.popular{
+  font-style: italic;
+  font-size:30px;
+  color:purple;
+}
+body{
+  background-color: #E5E8E8;
+}
