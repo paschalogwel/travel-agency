@@ -1,7 +1,7 @@
 h1{
   color: #f7325e;
   text-align: center;
-  font-weight: bolder;
+  font-size: 80px;
 }
 .tropical{
   color: blue
@@ -9,6 +9,7 @@ h1{
 }
 p{
   color: #7dc410;
+  font-size: 25px;
 }
 .holiday{
   color:#f7325e;
@@ -23,4 +24,17 @@ body{
 }
 .letters{
   color: #7dc410;
+  font-size: 25px;
+}
+img{
+  height: 426px;
+}
+h2{
+  font-size: 40px;
+}
+body{
+  background-color: #D0ECE7;
+}
+.love{
+  font-size: 25px;
 }
