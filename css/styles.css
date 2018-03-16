@@ -19,22 +19,24 @@ p{
   font-size:30px;
   color:purple;
 }
-body{
-  background-color: #E5E8E8;
-}
+
 .letters{
   color: #7dc410;
   font-size: 25px;
 }
 img{
-  height: 426px;
+  height: 50%;
 }
 h2{
   font-size: 40px;
 }
 body{
-  background-color: #D0ECE7;
+background-color: #7E742B;
 }
 .love{
   font-size: 25px;
+}
+.big{
+  background-color: #263344;
+  padding: 1px;
 }
